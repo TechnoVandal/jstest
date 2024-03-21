@@ -1,0 +1,14 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "description": "testing json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "author": "techno_vandal",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
